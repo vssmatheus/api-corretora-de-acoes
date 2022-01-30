@@ -5,7 +5,13 @@
   "repository": "https://github.com/vssmatheus/api-corretora-de-acoes.git",
   "author": "vssmatheus <vssmatheus@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "dependencies": {
     "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }

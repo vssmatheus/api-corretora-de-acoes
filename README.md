@@ -1,2 +1,2 @@
 # api-corretora-de-acoes
- Teste para backend em nodeJS
+ Teste para backend em nodeJS.

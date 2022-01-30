@@ -1,0 +1,11 @@
+{
+  "name": "api-corretora-de-acoes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vssmatheus/api-corretora-de-acoes.git",
+  "author": "vssmatheus <vssmatheus@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}

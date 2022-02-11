@@ -12,9 +12,13 @@ This is a boilerplate project using the following technologies:
 - [Node.js](https://nodejs.org/en/) 6+
 
 ```shell
-npm install
+yarn install
 ```
+or simple way
 
+```shell
+yarn
+```
 
 ## Running
 
@@ -23,11 +27,5 @@ Make sure to add a `config.js` file in the `config` folder. See the example ther
 Production mode:
 
 ```shell
-npm start
-```
-
-Development (Webpack dev server) mode:
-
-```shell
-npm run start:dev
+yarn start
 ```
